@@ -16,7 +16,7 @@ run the command: python manage.py runserver.
 ->When creating your private key using puttyGen, check the "save private key",
 I might have mistakenly said the public key.
 
-
+btw you need pycharm hehe
 
 
 
