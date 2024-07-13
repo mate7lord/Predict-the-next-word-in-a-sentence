@@ -17,7 +17,7 @@ run the command: python manage.py runserver.
 I might have mistakenly said the public key.
 
 btw you need pycharm hehe
-
+![Nama Gambar](result.png)
 
 
 
