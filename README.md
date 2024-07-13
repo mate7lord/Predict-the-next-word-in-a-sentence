@@ -13,6 +13,11 @@ Django is a free and open source web application framework written in Python. It
 7. run the command to initialize the tables: python manage.py migrate.
 run the command: python manage.py runserver.
 
+->When creating your private key using puttyGen, check the "save private key",
+I might have mistakenly said the public key.
+
+
+
 
 
 
